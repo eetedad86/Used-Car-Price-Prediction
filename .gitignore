@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-.vscode/
-.DS_Store
-Thumbs.db
-# Dataset files
-data/*.csv
