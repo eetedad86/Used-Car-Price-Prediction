@@ -1,9 +1,3 @@
-"""Explore the CarDekho dataset, compare regressors, and save the final model.
-
-Run from the project folder with: python 01_explore.py
-The original CSV is required only for training, not for predict.py.
-"""
-
 from pathlib import Path
 
 import matplotlib
